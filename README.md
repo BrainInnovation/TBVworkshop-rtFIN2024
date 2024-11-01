@@ -11,7 +11,7 @@ Please install Turbo-BrainVoyager EDU to participate actively to the hands-on se
 There will be two hands-on session which you can choose: Basic hands-on or Semantic Neurofeedback.
 For beginners we recommend to join the Basic hands-on session and for advanced users or people that are interested in the specific topic the Semantic Neurofeedback workshop.
 
-Please don't hesitate to ask questions about the excercise or general to one of our colleagues that are around during the excersice.
+**Please don't hesitate to ask questions about the excercise or general to one of our colleagues that are around during the excersice.**
 
 ## Basic hands-on 
 
