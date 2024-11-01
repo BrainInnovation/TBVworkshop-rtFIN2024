@@ -38,7 +38,7 @@ POSTER NR: 175, 176, 178
 
 ## Contacts
 
-For information contact support@brain-innovation.com.
+For more information contact us via email support@brain-innovation.com or visit us at the booth during the conference! 
 
 
 ### Acknowledgments
