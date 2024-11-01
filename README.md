@@ -42,7 +42,7 @@ For information contact support@brain-innovation.com.
 
 
 ### Acknowledgments
-We acknowledge our collaborators Xuelei Wang, Dr. Jana Zweerings, Dr. MD David M. A. Mehler for the recent research on Semantic Neurofeedback
+We acknowledge our collaborators Xuelei Wang, Dr. Jana Zweerings, Dr. MD David M. A. Mehler for their recent research on Semantic Neurofeedback
 (RWTH Aachen University).
 
 
