@@ -1,9 +1,9 @@
-# Turbo-BrainVoyager workshop - rtFIN 2024
+# Turbo-BrainVoyager Workshop - rtFIN 2024
 
 
 Welcome to the TBV workshop page!<br> Here you will find information about the workshop and useful links to participate to our hands-on sessions.
 
-For Windows users, we provide the TBV Educational version at this link: [TBVEdu link](https://download.brainvoyager.com/tbv/setup_tbvedu-v4.4.8_win-x64.exe).
+For Windows users, we provide the TBV Educational version at this link: [TBVEDU link](https://download.brainvoyager.com/tbv/setup_tbvedu-v4.4.8_win-x64.exe).
 If you don't have a Windows laptop, please team up with another participant of the workshop or ask one of our colleague if there is still a laptop available.
 
 Please install Turbo-BrainVoyager EDU to participate actively to the hands-on session!
